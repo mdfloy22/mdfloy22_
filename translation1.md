@@ -1,5 +1,6 @@
 A. Grammatical analysis
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks. For example, if you were given the English sentence, “They felt relieved when they realized that the translation was easy.”, you could write that in markdown as
+
 Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. quia pater eius centaurum timebat, pollicitus est se daturum.
 
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
