@@ -1,0 +1,1 @@
+Cum Hercules Oecheliam veniebat, Iolen petivit ducere uxorem. Autem, quia Eurytus, pater Ioles, nolebat, Hercules Iolen cepit. Hercules dixit patres Ioles occidere. Iole passus est patres sua patres occidisse. Cum Hercules omnem occidit, misit Iolae Deianiram. 
