@@ -67,7 +67,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 Eurytion came with his brothers, who were violent Centaurs, to the wedding.
 >Pronoun: qui
->>Antecedent: his brothers
+>Antecedent: his brothers
 >Case of Pronoun: nominative- noun, describing the brothers themselves
  
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
