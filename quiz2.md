@@ -1,17 +1,19 @@
+**Needs revisions**
+
 Quiz 2
 Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 Do, facio
 third plural present indicative active
->Dant: They give the money to the worker.
->>Faciunt: They make the crafts.
+>Dant: They give ❌the money to the worker.❌
+>>Faciunt: They make ❌the crafts❌.
 
 third plural present subjunctive active
 >Dent, faciant
 
 third plural imperfect indicative active
->Dabant: They used to give money to the workers.
->>Faciebant: They used to make the crafts.
+>Dabant: They used to give ❌money to the workers.❌
+>>Faciebant: They used to make ❌the crafts.❌
 
 present infinitive active
 >Dare, facere
@@ -20,8 +22,8 @@ third plural imperfect subjunctive active
 >Darent, facerent
 
 third plural perfect indicative active
->Dederunt: They gave the money to the worker.
->>Fecerunt: They made the crafts.
+>Dederunt: They gave ❌the money to the worker.❌
+>>Fecerunt: They made ❌the crafts.❌
 
 perfect infinitive passive
 >Datus esse, factus esse
@@ -51,7 +53,7 @@ third plural perfect indicative passive
 >Polliciti sunt- they promised
 
 perfect active passive
->Polliciti erant- they had promised
+>Polliciti erant- they had promised ❌
 
 third plural pluperfect subjunctive passive
 >Polliciti essent
@@ -65,7 +67,7 @@ you could make the second sentence a relative clause like this:
 Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-Eurytion came with his brothers, who were violent Centaurs, to the wedding.
+Eurytion came with his brothers, who were violent Centaurs, to the wedding.❌ **You've flipped the sentences: keep the first sentence as the independent (main) clause.**
 >Pronoun: qui
 >>Antecedent: his brothers
 >>>Case of Pronoun: nominative- noun, describing the brothers themselves
@@ -74,7 +76,7 @@ Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 Dexamenus was afraid of Eurytion, whom Deanira was promised to in marriage.
 >Pronoun: cui
 >>Antecedent: Eurytion
->>>Case of Pronoun: dative- being given something
+>>>Case of Pronoun: dative- being given something 👌 **or, "indirect object"**
  
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 Eurytion, whose brothers were centaurs, expected to marry Deianira.
@@ -83,13 +85,13 @@ Eurytion, whose brothers were centaurs, expected to marry Deianira.
 >>>Case of Pronoun: genitive- denotes possession/belonging
  
 Nessus tried to rape Deianira. Hercules killed Nessus.
-Nessus, who was killed by Hercules, tried to rape Deianira.
+Nessus, who was killed by Hercules, tried to rape Deianira.❌
 >Pronoun: qui
 >>Antecedent: Nessus
 >>>Case of Pronoun: nominative- proper noun
  
 Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-Nessus gave Deianira a vial of blood that poisoned Hercules.
+Nessus gave Deianira a vial of blood that poisoned Hercules.❌
 >Pronoun: quod
 >>Antecedent: vial of blood
 >>>Case of Pronoun: nominative- noun/object
@@ -101,7 +103,7 @@ In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigner
 >>>Case of Pronoun: nominative- proper name/noun
  
 Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-Prometheus’ heart was devoured by an eagle which was shot with arrows by Hercules.
+Prometheus’ heart was devoured by an eagle which was shot with arrows by Hercules.❌
 >Pronoun: que
 >>Antecedent: Eagle
 >>>Case of Pronoun: accusative- being done to the eagle
