@@ -1,0 +1,1 @@
+Cum Deianira filia Oenei uxor Herculisque viderit Iolen adductam esse, coepit machinari ne privaretur conjuge. Ea misit famulus ad adducendae vesti cum sanguis centauri Nessi, cui credebat philtrum esse, ad Herculem. Hercules vesti induit, et statim flammans. 
