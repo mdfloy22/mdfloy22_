@@ -24,20 +24,27 @@ Mycenis vivum *adduxit*.
  Diomedem Thraciae regem et equos quattuor eius, 
 >qui carne humana vescebantur, 
 cum Abdero famulo *interfecit*; 
+
 >equorum autem nomina 
 Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions
+
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase?
 >Iove is ablative and with adiutore in the ablative, it is an ablative absolute construction to independently express Iuppiter as helper.
+
 What case is stercus, and why is it in that case?
 >stercus is accusative because it expresses that Hercules was performing an action upon it (cleaning).
+
 Identify the form of the adjective maiorem (gender, case, number, degree).
 >neuter, accusative, singular, comparative
+
 Explain the construction of the verbal unit flumine admisso.
 >flumine is ablative of flumen and admisso is the ablative participle of admissus, so it expresses that he was able to clean it "with the river being let in/allowed to flow".
+
 What are the gender, number, case, and antecedent of qui?
 >masculine, plural, nominative, and "equos quattuor eius" or simply "equos".
+
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 >participles. They are formed from a verb but used as an adjective and each name is used to describe the horses.
 
